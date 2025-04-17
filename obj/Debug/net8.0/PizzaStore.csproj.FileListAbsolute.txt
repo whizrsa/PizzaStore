@@ -33,3 +33,4 @@ C:\Tutorials\C#\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Tutorials\C#\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Tutorials\C#\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Tutorials\C#\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.Up2Date
+C:\Tutorials\C#\PizzaStore\obj\Debug\net8.0\PizzaStore.sourcelink.json
